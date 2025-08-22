@@ -1,2 +1,2 @@
-# JUGGernautAi
+# JUGGernautAGi
 JUGGernaut Artificial Intelligence
